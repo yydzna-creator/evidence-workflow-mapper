@@ -20,7 +20,7 @@ Ask Codex to use `$skill-installer` with this repository's skill directory:
 
 ```text
 $skill-installer
-Install the skill from https://github.com/<owner>/evidence-workflow-mapper/tree/main/skills/evidence-workflow-mapper
+Install the skill from https://github.com/yydzna-creator/evidence-workflow-mapper/tree/main/skills/evidence-workflow-mapper
 ```
 
 For manual installation, copy `skills/evidence-workflow-mapper` to:
