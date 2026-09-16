@@ -1,0 +1,5 @@
+interface:
+  display_name: "Evidence Workflow Mapper"
+  short_description: "Map papers and patents onto comparable research workflows"
+  brand_color: "#2563EB"
+  default_prompt: "Use $evidence-workflow-mapper to research a technical direction and build normalized evidence-linked workflows."

@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated research data stays outside the public skill repository.
+/examples/
+/research/
+/outputs/
+/workflow.json
+/sources.json
+/annotations.json
+/search-log.json
+/report.md
+/index.html
+/*.notebook.json
