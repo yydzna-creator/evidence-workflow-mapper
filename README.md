@@ -1,8 +1,12 @@
 # Evidence Workflow Mapper
 
-Evidence Workflow Mapper is a reusable Codex skill for researching papers and patents, expanding from seed literature, and mapping methods onto one or more normalized, evidence-linked workflows.
+一个适合初学者的 Codex 研究 Skill：通过论文、专利和可追溯流程图，快速了解某个技术领域的主要方向、典型流程、关键步骤与代表方法。
+
+Evidence Workflow Mapper is a beginner-friendly Codex skill for quickly understanding a technical field. It researches papers and patents, expands from seed literature, and organizes the results into one or more normalized, evidence-linked workflows.
 
 It can generate an offline, GoodNotes-like research notebook in which workflow nodes remain visible on the canvas while papers and patents stay collapsed in a compact side shelf. Selecting a source reveals its method, algorithms, locators, and mapping confidence.
+
+You do not need to know the field's terminology or workflow in advance. Start with a topic or a few seed papers, and the skill will help build a structured map from the broad landscape down to individual methods and evidence.
 
 ## What the skill supports
 

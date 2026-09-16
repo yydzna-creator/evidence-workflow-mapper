@@ -1,11 +1,11 @@
 ---
 name: evidence-workflow-mapper
-description: Research a technical direction across papers and patents, expand from seed sources, and produce one or more normalized, evidence-linked workflows plus an interactive research notebook. Use for literature landscapes, patent landscapes, method pipelines, cross-paper workflow comparison, visual note-taking, or updates to an existing workflow catalog. Do not use for a plain bibliography or a single-document summary that does not need workflow synthesis.
+description: Help users quickly understand a technical field by researching papers and patents, expanding from seed sources, and producing one or more normalized, evidence-linked workflows plus an interactive research notebook. Use for beginner-friendly field overviews, literature or patent landscapes, method pipelines, cross-paper workflow comparison, visual note-taking, or updates to an existing workflow catalog. Do not use for a plain bibliography or a single-document summary that does not need workflow synthesis.
 ---
 
 # Evidence Workflow Mapper
 
-Build a traceable catalog of technical workflows. Organize knowledge around normalized process nodes rather than around a flat source list.
+Build a beginner-friendly, traceable catalog of technical workflows. Explain the field from broad directions to concrete process steps, and organize knowledge around normalized process nodes rather than around a flat source list.
 
 ## Select the operating mode
 
